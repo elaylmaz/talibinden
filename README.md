@@ -55,4 +55,9 @@ Evet
 Değişikliklerinizi taahhüt edin (git commit -am 'Yeni özellik ekle').5
 Değişikliklerinizi push edin ( git push origin feature-branch).
 Ü
+,
+ekip arkadaşlarım:
+muhammet taha akgül 
+mert arda serdar
+murat bilgilioğlu
 
